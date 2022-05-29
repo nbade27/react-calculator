@@ -7,6 +7,8 @@ function App() {
        <div className='previous-operand'>100,000 +</div>
        <div className='current-operand'>5,000</div>
      </div>
+
+     
       <button className='span-two'>AC</button>
       <button>DEL</button>
       <button>/</button>
